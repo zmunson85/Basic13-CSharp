@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\basic13\\basic13.csproj": {}
+    "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\basic13\\basic13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\basic13\\basic13.csproj": {
+    "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\basic13\\basic13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\basic13\\basic13.csproj",
+        "projectUniqueName": "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\basic13\\basic13.csproj",
         "projectName": "basic13",
-        "projectPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\basic13\\basic13.csproj",
+        "projectPath": "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\basic13\\basic13.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\basic13\\obj\\",
+        "outputPath": "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\basic13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config"
