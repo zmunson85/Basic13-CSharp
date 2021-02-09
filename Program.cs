@@ -90,14 +90,14 @@ namespace basic13
         //     }
         //     return count;
         // }
-        // public static void SquareArrayValues(int[] numbers)
-        // {
-        //     for (int i = 0; i < numbers.Length; i++)
-        //     {
-        //         numbers[i] = numbers[i] * numbers[i];
-        //     }
-        //     Console.WriteLine(String.Join(",", numbers));
-        // }
+        public static void SquareArrayValues(int[] numbers)
+        {
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                numbers[i] = numbers[i] * numbers[i];
+            }
+            Console.WriteLine(String.Join(",", numbers));
+        }
         // public static void EliminateNegatives(int[] numbers)
         // {
         //     for (int i = 0; i < numbers.Length; i++)
@@ -155,15 +155,16 @@ namespace basic13
         // }
         static void Main(string[] args)
         {
+            int[] array = new int[] { 1, 2, -3, 4, 5, 10, -7 };
+            SquareArrayValues(array);
             // PrintNumbers();
             // PrintOdds();
             // PrintSum();
             // LoopArray(array);
             // FindMax(array);
             // GetAverage(array);
-            Console.WriteLine(String.Join(",", OddArray()));
+            // Console.WriteLine(String.Join(",", OddArray()));
             // Console.WriteLine(GreaterThanY(array, 2));
-            // SquareArrayValues(array);
             // EliminateNegatives(array);
             // MinMaxAverage(array);
             // ShiftValues(array);
